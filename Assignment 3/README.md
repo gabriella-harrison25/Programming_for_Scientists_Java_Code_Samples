@@ -12,3 +12,5 @@ Goal: Write code to find the determinant of any $m \times n$ matrix, either dire
 *TriMatrix.java* : subclass of Matrix that describes $n \times n$ real tri-diagonal matrix.
 
 *Project3.java* : a separate class that uses Matrix and subclasses to collect basic statistics involving random matrices.
+
+*VarGraph.pdf* : A graph of the variance of a set of random matrices based on matrix type.
