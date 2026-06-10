@@ -1,5 +1,7 @@
 # Assignment 1 Overview
 ## Circles on a Plane
+Goal: Perform statistical analysis on large dataset of circles.
+
 *Project1.java* : Represents points $(x,y)$ and establishes functions to find the Euclidean distance between two points.
 
 
